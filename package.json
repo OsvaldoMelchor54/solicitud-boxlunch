@@ -33,7 +33,7 @@
     "lodash-es": "^4.17.21",
     "lottie-web-vue": "^1.2.1",
     "minimatch": "^3.0.5",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.0.0",
     "parse-url": "^8.1.0",
     "serialize-javascript": "^6.0.2",
     "vue": "^2.6.14",
