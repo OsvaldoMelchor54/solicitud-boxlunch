@@ -24,7 +24,7 @@
     "braces": "^3.0.3",
     "cipher-base": "^1.0.5",
     "cookie": "^0.7.0",
-    "core-js": "^3.19.3",
+    "core-js": "^3.46.0",
     "decode-uri-component": "^0.2.2",
     "devalue": "^5.3.2",
     "elliptic": "^6.6.1",
